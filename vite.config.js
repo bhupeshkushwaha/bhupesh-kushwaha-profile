@@ -3,7 +3,7 @@ import react from '@vitejs/plugin-react'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: '/bhupesh-kushwaha-profile/',
+  base: 'https://github.com/bhupeshkushwaha/bhupesh-kushwaha-profile',
   plugins: [
     react(),
   ],
