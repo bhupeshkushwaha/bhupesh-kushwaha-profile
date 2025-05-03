@@ -42,7 +42,7 @@ export default function Navbar() {
           whileTap={{ scale: 0.9 }}
           onClick={() => scrollToSection("home")}
           className="h-9 cursor-pointer"
-          src="/assets/logo.svg"
+          src="./assets/logo.svg"
           alt="Logo"
         />
 
@@ -65,7 +65,7 @@ export default function Navbar() {
         </ul>
 
         <motion.a
-          href="assets/Bhupesh_Kushwaha_Resume.pdf" // Update the href to point to the PDF file
+          href="./assets/Bhupesh_Kushwaha_Resume.pdf" // Update the href to point to the PDF file
           className="relative inline-block px-4 py-2 font-semibold group"
           whileHover={{ scale: 1.1 }}
           download
