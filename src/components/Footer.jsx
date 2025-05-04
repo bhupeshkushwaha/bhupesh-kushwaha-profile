@@ -9,7 +9,7 @@ export default function Footer() {
 
       <div className='text-white lg:font-semibold lg:text-sm font-normal text-[10px] text-right lg:space-y-3'>
         <p>@ {currentYear} Bhupesh Kushwaha | Full Stack Developer Portfolio</p>
-        <p>Made by -BK</p>
+        <p>Template Design: Figma by Jhanvi Shah & Made by -BK</p>
       </div>
     </div>
   )
