@@ -65,7 +65,7 @@ export default function Navbar() {
         </ul>
 
         <motion.a
-          href="./assets/Bhupesh_Kushwaha_Resume.pdf" // Update the href to point to the PDF file
+          href="./assets/Bhupesh-Kushwaha-Resume-cv.pdf" // Update the href to point to the PDF file
           className="relative inline-block px-4 py-2 font-semibold group"
           whileHover={{ scale: 1.1 }}
           download
