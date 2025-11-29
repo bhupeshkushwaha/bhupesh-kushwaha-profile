@@ -112,12 +112,12 @@ export default function Contact() {
             <motion.a
               whileHover={{ x: 5 }}
               className='flex items-center gap-2 group'
-              href="mailto:bhupesh.web.developer@gmail.com"
+              href="mailto:bhupes.sc@gmail.com"
             >
               <span className='border-2 transition-all border-transparent group-hover:border-black rounded-full p-1'>
                 <IoMdMail className="w-4 h-4 lg:w-5 lg:h-5" />
               </span>
-              bhupesh.web.developer@gmail.com
+              bhupes.sc@gmail.com
             </motion.a>
 
             <motion.a

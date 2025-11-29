@@ -87,7 +87,7 @@ I enjoy building efficient, scalable, and user-friendly applications that solve 
 
 ## 📬 Contact
 Feel free to reach out if you have any questions or suggestions:
-- **Email:** [bhupesh.web.developer@gmail.com](mailto:bhupesh.web.developer@gmail.com)
+- **Email:** [bhupes.sc@gmail.com](mailto:bhupes.sc@gmail.com)
 - **LinkedIn:** [Bhupesh Kushwaha](https://linkedin.com/in/bhupeshkushwaha1992)
 
 ---
